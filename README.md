@@ -7,7 +7,11 @@ This is the source code for BudgetCut, an application which is built to improve 
 > [Documentation](https://github.com/dbooyah93/budget-cut/wiki)
 
 ### License
-This application is protected by 
+TODO: Terms and conditions of this application are [here](./)
+Summary:
+* You may access this application through the host server.
+* You may download the source code and build this application on your local machine.
+* You may not redistribute this application or its source code.
 
 ### Install this locally
 * [Install Node]
