@@ -1,14 +1,13 @@
-BudgetCut UI
+BudgetCut
 ===
 A budget-slashing app which allows people to take control of their finances.
 ---
 This is the source code for BudgetCut, an application which is built to improve the way people manage their money.
 
-### Documentation
-#### Using this app
-[TODO](https://github.com/dbooyah93/budget-cut/wiki)
-#### Architecture of this app
-[TODO](https://github.com/dbooyah93/budget-cut/wiki)
+> [Documentation](https://github.com/dbooyah93/budget-cut/wiki)
+
+### License
+This application is protected by 
 
 ### Install this locally
 * [Install Node]
