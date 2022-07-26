@@ -2,7 +2,7 @@ BudgetCut
 ===
 A budget-slashing app which allows people to take control of their finances.
 ---
-This is the source code for BudgetCut, an application which is built to improve the way people manage their money.
+This is the source code for BudgetCut, an application which is designed to improve the way people manage their money.
 
 > [Documentation](https://github.com/dbooyah93/budget-cut/wiki)
 
